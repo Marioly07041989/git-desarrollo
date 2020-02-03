@@ -1,8 +1,9 @@
-COMANDOS	PARAMETROS		FUNCION
-mkdir		"directorio/"		Crear un directorio en la ruta actual
-nano		"archivo.formato"	Abre el editor de codigo para modificar o crear un archivo con el nombre indicado
-cd		"directorio/"		Abre el directorio solicitado, siempre y cuando este se encuentre en la ruta actual
-cd		..			Vuelve al directorio anterior
-rm		"archivo.formato"	Elimina el arhivo solicitado del directorio actual (ADVERTENCIA: Este comando se ejecuta sin confirmacion)
-ls					Lista el contenido del Directorio actual de forma visual para identificar Carpetas, Archivos y Programas por separado
-
+COMANDOS	                |FUNCION
+ls					        |Lista el contenido del Directorio actual de forma visual para identificar Carpetas, Archivos y Programas por separado.
+cd	    "directorio/"		|Abre el directorio solicitado, siempre y cuando este se encuentre en la ruta actual.
+cd	    ..			        |Vuelve al directorio anterior.
+mkdir   "directorio/"       |Crear un directorio en la ruta actual.
+nano    "archivo.formato"   |Abre el editor de codigo para modificar o crear un archivo con el nombre indicado.
+mv      "origen" "destino"  |Mueve un archivo a una nueva ubicacion o renombra el mismo si no se cambia la ruta.
+rm      "archivo.formato"	|Elimina el arhivo solicitado del directorio actual (ADVERTENCIA: Este comando se ejecuta sin confirmacion).
+clear                       |Limpia la linea de comandos para trabajar con la ventana en limpio.
