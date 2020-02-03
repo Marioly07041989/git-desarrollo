@@ -1,0 +1,10 @@
+Working Directory: Area donde se realiza el trabajo (Creacion, edicion, eliminacion y organizacion de archivos).
+comando: git add => (Agregar los directorios y archivos a los que se hara seguimiento)
+
+comando: <= git status (comparacion de archivos entre Areas e identifica si estos estan siendo seguidos)
+Staging Area: Area donde se enumeran los cambios que se hayan realizado en el directorio de trabajo.
+comando: git commit => (Emite los cambios para que sean registrados en el repositorio local)
+
+comando: <= git diff (Enumeracion de las Diferencias entre Areas)
+Repositorio: Area donde se almacenan permanentemente los cambios que se han realizado
+comando: git Push => (Envia los cambios realizados en los ultimos commit al repositorio remoto desde el local)
