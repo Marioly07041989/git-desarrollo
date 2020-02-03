@@ -1,15 +1,26 @@
 GIT (sistema de control de versiones)
 
+
+
 Instancias de GIT
 
+
+
 Working Directory: Directorio de trabajo. 
+
 Donde llevamos a cabo nuestros cambios, creacion y eliminacion de archivos
 
+
+
 Staging Area (Index): Area de control de Cambios
+
 Cada vez que querramos que se le haga un seguimiento a un archivo o carpeta,
 debemos agregar al STAGE dichos elementos.
 
+
+
 Repositorio Local (Historial de Cambios - Paquetes)
 Area donde se registran los cambios realizados en nuestro archivos y carpetas.
+
 dandonos la posibilidad de restablecer los mismos individualmente o todo el proyecto.
 
