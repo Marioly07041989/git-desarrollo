@@ -2,4 +2,4 @@ CONFIGURACION INICIAL
     Iniciar Repositorio:    git init
     Nombre de Usuario:      git config user.name "usuario" !important;
     Correo de Contacto:     git config user.email "correo" !important;
-
+    definir alias:          git config alias."alias" "valor que representa"
